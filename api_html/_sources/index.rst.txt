@@ -1,0 +1,16 @@
+
+#####
+cmake
+#####
+
+.. toctree:: 
+   :maxdepth: 2
+
+   peakrdl/index.rst
+   sim/index.rst
+   synth/index.rst
+   systemrdl/index.rst
+   utils/index.rst
+   verible/index.rst
+   hwip
+
